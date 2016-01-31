@@ -1,6 +1,6 @@
 name: S4living
 favicon: null
-layout_spectrum: 0.5
+layout_spectrum: 1
 typography_spectrum: 0.4381084016058594
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.45288396114483476
-  lightness: 0.6875
-  saturation: 0.39222678588703275
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.375
   rhythmicContrast: 0.5
 purpose: []
