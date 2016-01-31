@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[S4living]]></title>
         <description><![CDATA[S4living]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/s4living/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Jan 2016 08:08:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 31 Jan 2016 08:19:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/s4living/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[1111111]]></title>
             <description><![CDATA[<article><h1>1111111</h1><p>ขายคอนโด </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce0f7ca00c914b6e92d2fbc51781c721ed7de272.jpg"></article>]]></description>
-            <link>undefined28a8f59c-91b0-48ce-8c3a-5a2dd52895f9/index.html</link>
+            <link>https://thegrid.ai/s4living/28a8f59c-91b0-48ce-8c3a-5a2dd52895f9/index.html</link>
             <guid isPermaLink="false">28a8f59c-91b0-48ce-8c3a-5a2dd52895f9</guid>
-            <pubDate>Sun, 31 Jan 2016 08:07:31 GMT</pubDate>
+            <pubDate>Sun, 31 Jan 2016 08:18:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
